@@ -1,0 +1,127 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.tops {
+    background-image: url("images/electronic.png");
+    height: 1000%;
+    width: 98.5%;
+    background-position: center;
+    background-size: cover;
+    margin-top: -10px;
+    margin-left: 10px;
+    border: 1px solid black;
+}
+
+.form-box {
+    width: 300px;
+    height: 400px;
+    margin-top: 10px;
+    position: relative;
+    margin-left: 500px;
+    background-color: white;
+    padding: 5px;
+    border: 1px solid rgb(149, 56, 211);
+}
+
+.fillup {
+    width: 80%;
+    height: 40%;
+    margin-left: 45px;
+    margin-top: -80px;
+}
+
+.form-box p {
+    margin-top: 1px;
+    font-size: 25px;
+    margin-left: 50px;
+}
+
+.username {
+    width: 100%;
+    border: none;
+    outline: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    margin-top: 78px;
+    margin-left: 5px;
+}
+
+.remail {
+    width: 100%;
+    border: none;
+    outline: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    word-spacing: 3px;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.number {
+    width: 70%;
+    border: none;
+    outline: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.password {
+    width: 70%;
+    border: none;
+    outline: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.confpassword {
+    width: 70%;
+    border: none;
+    outline: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+
+.reg2 {
+    height: 30px;
+    width: 80px;
+    padding: 10px 10px;
+    font-size: 13px;
+    border: none;
+    outline: none;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 8px;
+    ;
+    background-color: rgb(141, 168, 214);
+}
+
+.reg2:hover {
+    cursor: pointer;
+    background: rgb(231, 76, 76);
+}
+
+.cancelbtn {
+    height: 30px;
+    width: 80px;
+    padding: 5px 6px;
+    font-size: 13px;
+    border: none;
+    outline: none;
+    border-spacing: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 8px;
+    background-color: rgb(140, 118, 192);
+}
+
+.cancelbtn:hover {
+    cursor: pointer;
+    background: rgb(145, 27, 27);
+}
